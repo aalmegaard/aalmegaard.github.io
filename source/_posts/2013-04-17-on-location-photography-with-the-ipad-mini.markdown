@@ -39,5 +39,5 @@ An alternative to the adaptor could be an [Eye-Fi][ref7] card which enables the 
 [ref3]: http://store.apple.com/us/product/MD821ZM/A/lightning-to-usb-camera-adapter?fnode=3a
 [ref4]: http://www.snapseed.com/
 [ref5]: http://www.facebook.com/danishsocialinnovationclub
-[ref6]: http://www.flickr.com/photos/almegaard/sets/72157633265257133/
+[ref6]: http://www.flickr.com/photos/almegaard/sets/72157633267126419/
 [ref7]: http://www.eye.fi/
