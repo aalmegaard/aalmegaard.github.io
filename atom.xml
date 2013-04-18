@@ -4,7 +4,7 @@
   <title><![CDATA[The geek behind the viewfinder]]></title>
   <link href="http://aalmegaard.github.io/atom.xml" rel="self"/>
   <link href="http://aalmegaard.github.io/"/>
-  <updated>2013-04-18T00:07:46+02:00</updated>
+  <updated>2013-04-18T10:52:47+02:00</updated>
   <id>http://aalmegaard.github.io/</id>
   <author>
     <name><![CDATA[Alexander Almegaard]]></name>
@@ -49,6 +49,15 @@ During the past couple of years I have photographed a lot of similar events and 
 
 
 <p>An alternative to the adaptor could be an <a href="http://www.eye.fi/">Eye-Fi</a> card which enables the camera to transfer images to an iPad or computer using a built-in Wi-Fi. But since Eye-Fi only produces SD cards and my DSLR is CF only, this was not an option for me. Eye-Fi cards begin at $39.99 and the Lightning to USB Camera Adaptor is $29.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ready for takeoff]]></title>
+    <link href="http://aalmegaard.github.io/ready-for-takeoff/"/>
+    <updated>2013-04-16T10:46:00+02:00</updated>
+    <id>http://aalmegaard.github.io/ready-for-takeoff</id>
+    <content type="html"><![CDATA[<p>New blog - let’s get going!</p>
 ]]></content>
   </entry>
   
