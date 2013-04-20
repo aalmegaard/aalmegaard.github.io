@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hacks | The geek behind the viewfinder]]></title>
+  <link href="http://aalmegaard.github.io/blog/categories/hacks/atom.xml" rel="self"/>
+  <link href="http://aalmegaard.github.io/"/>
+  <updated>2013-04-20T11:58:09+02:00</updated>
+  <id>http://aalmegaard.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Almegaard]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Boxee Box - pros, cons, and hacks]]></title>
+    <link href="http://aalmegaard.github.io/the-boxee-box-pros-cons-and-hacks/"/>
+    <updated>2013-04-20T11:57:00+02:00</updated>
+    <id>http://aalmegaard.github.io/the-boxee-box-pros-cons-and-hacks</id>
+    <content type="html"><![CDATA[<p>At one point, connecting a computer to the TV to watch local media files became too much of a bother. Since then, I have been using the <a href="http://www.dlink.com/us/en/home-solutions/boxee-box/at-a-glance"><em>Boxee Box</em></a> to stream content from my local NAS to the TV.</p>
+
+<p>The Boxee is connected with an ethernet cable and to the TV via HDMI. When it is plugged in, the next thing to do is to add the local media sources. Then the Boxee scans the sources, sorts all media files according to movies and shows, and labels them with the right title, description, and cover image.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>The Boxee Box supports up to 1080p, digital audio output, Wi-Fi and ethernet, and streaming video and audio from an iOS device. Despite these great features, it has still got a lot of weak points.</p>
+
+<h2>Pros</h2>
+
+<ul>
+<li>Supports <strong>a lot</strong> of different formats, including AVI, MKV and DivX.</li>
+<li>Easy to install and setup.</li>
+<li>Clean and good looking interface.</li>
+<li>Ability to install new firmware.</li>
+</ul>
+
+
+<h2>Cons</h2>
+
+<ul>
+<li>Unstable performance.</li>
+<li>Slow start-up.</li>
+<li>Does not support 5GHz Wi-Fi.</li>
+<li>Discontinued by D-Link which means no bug fixes.</li>
+</ul>
+
+
+<p>Not being able to connect the Boxee to a 5GHz network resulted in having to use the ethernet port. The 2.4GHz band is simply too crowded in this area to handle 1080p video streaming. The ethernet solution takes care of the buffering problem. In addition to this, the Boxee is extremely unstable and the firmware really needs an update.</p>
+
+<h2>Boxee+Hacks</h2>
+
+<p><em>Boxee+Hacks</em> is a new open-source software for the Boxee Box. It comes with a bunch of new UI features and bug fixes. To install Boxee+Hacks on a Boxee follow <a href="http://boxeeplus.com/">this</a> guide.</p>
+
+<blockquote><p>Note: Before you start, make sure you know what you are doing. This software is not affiliated with Boxee and may void your warranty.</p></blockquote>
+
+<p>After <em>updating</em> the firmware you are presented with an extra settings panel, a new start up screen and a new screensaver. Updates are available every 2-3 months. I think the update has made the Boxee more stable, but it is still not perfect. The new ways of customising the home screen, subtitles, etc., are nice and I can’t see any way the Boxee+Hacks software makes the Boxee Box worse.</p>
+
+<p>I think that the Boxee Box has great potential to be one of the best <em>omnivorous</em> set top boxes on the market — especially when it comes to streaming your own video content from local storage. It seriously needs a power boost, software or/and hardware wise, to bring down the loading time and how the firmware runs in general. If D-Link decided to launch a new upgraded Boxee Box, I would definitely consider to get it. As the current Boxee Box runs now it a bit too expensive compared to other boxes on the market.</p>
+
+<h2>Alternatives</h2>
+
+<p>There are a bunch of alternatives including <a href="http://store.apple.com/us/browse/home/shop_ipod/ipod_accessories/apple_tv">Apple TV</a>, <a href="http://www.google.com/tv/">Google TV</a>, <a href="http://www.raspberrypi.org/">Raspberry Pi</a>, <a href="http://www.roku.com/">Roku</a>, <a href="http://www.wdc.com/en/products/products.aspx?id=330">WD TV Live</a>.<br/>
+Lifehacker has a good overview <a href="http://lifehacker.com/5946193/how-to-find-the-best-tv-set-top-box-and-ditch-cable-once-and-for-all">here</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
