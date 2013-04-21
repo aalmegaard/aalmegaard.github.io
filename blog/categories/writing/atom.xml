@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: writing | The geek behind the viewfinder]]></title>
-  <link href="http://aalmegaard.github.io/blog/categories/writing/atom.xml" rel="self"/>
-  <link href="http://aalmegaard.github.io/"/>
-  <updated>2013-04-20T12:10:25+02:00</updated>
-  <id>http://aalmegaard.github.io/</id>
+  <link href="http://blog.almegaard.com/blog/categories/writing/atom.xml" rel="self"/>
+  <link href="http://blog.almegaard.com/"/>
+  <updated>2013-04-21T13:41:35+02:00</updated>
+  <id>http://blog.almegaard.com/</id>
   <author>
     <name><![CDATA[Alexander Almegaard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ready for takeoff]]></title>
-    <link href="http://aalmegaard.github.io/ready-for-takeoff/"/>
+    <link href="http://blog.almegaard.com/ready-for-takeoff/"/>
     <updated>2013-04-16T10:46:00+02:00</updated>
-    <id>http://aalmegaard.github.io/ready-for-takeoff</id>
+    <id>http://blog.almegaard.com/ready-for-takeoff</id>
     <content type="html"><![CDATA[<p>New blog - let’s get going!</p>
 ]]></content>
   </entry>

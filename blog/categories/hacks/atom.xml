@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: hacks | The geek behind the viewfinder]]></title>
-  <link href="http://aalmegaard.github.io/blog/categories/hacks/atom.xml" rel="self"/>
-  <link href="http://aalmegaard.github.io/"/>
-  <updated>2013-04-20T12:10:25+02:00</updated>
-  <id>http://aalmegaard.github.io/</id>
+  <link href="http://blog.almegaard.com/blog/categories/hacks/atom.xml" rel="self"/>
+  <link href="http://blog.almegaard.com/"/>
+  <updated>2013-04-21T13:41:35+02:00</updated>
+  <id>http://blog.almegaard.com/</id>
   <author>
     <name><![CDATA[Alexander Almegaard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Boxee Box - pros, cons, and hacks]]></title>
-    <link href="http://aalmegaard.github.io/the-boxee-box-pros-cons-and-hacks/"/>
+    <link href="http://blog.almegaard.com/the-boxee-box-pros-cons-and-hacks/"/>
     <updated>2013-04-20T11:57:00+02:00</updated>
-    <id>http://aalmegaard.github.io/the-boxee-box-pros-cons-and-hacks</id>
+    <id>http://blog.almegaard.com/the-boxee-box-pros-cons-and-hacks</id>
     <content type="html"><![CDATA[<p>At one point, connecting a computer to the TV to watch local media files became too much of a bother. Since then, I have been using the <a href="http://www.dlink.com/us/en/home-solutions/boxee-box/at-a-glance"><em>Boxee Box</em></a> to stream content from my local NAS to the TV.</p>
 
 <p>The Boxee is connected with an ethernet cable and to the TV via HDMI. When it is plugged in, the next thing to do is to add the local media sources. Then the Boxee scans the sources, sorts all media files according to movies and shows, and labels them with the right title, description, and cover image.</p>

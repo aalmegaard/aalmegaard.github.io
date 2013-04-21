@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: photography | The geek behind the viewfinder]]></title>
-  <link href="http://aalmegaard.github.io/blog/categories/photography/atom.xml" rel="self"/>
-  <link href="http://aalmegaard.github.io/"/>
-  <updated>2013-04-20T12:10:25+02:00</updated>
-  <id>http://aalmegaard.github.io/</id>
+  <link href="http://blog.almegaard.com/blog/categories/photography/atom.xml" rel="self"/>
+  <link href="http://blog.almegaard.com/"/>
+  <updated>2013-04-21T13:41:35+02:00</updated>
+  <id>http://blog.almegaard.com/</id>
   <author>
     <name><![CDATA[Alexander Almegaard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[On location photography with the ipad mini]]></title>
-    <link href="http://aalmegaard.github.io/on-location-photography-with-the-ipad-mini/"/>
+    <link href="http://blog.almegaard.com/on-location-photography-with-the-ipad-mini/"/>
     <updated>2013-04-17T22:16:00+02:00</updated>
-    <id>http://aalmegaard.github.io/on-location-photography-with-the-ipad-mini</id>
+    <id>http://blog.almegaard.com/on-location-photography-with-the-ipad-mini</id>
     <content type="html"><![CDATA[<p>About a month ago I was invited to photograph the annual event by <a href="http://dansic.org">DANSIC</a> (Danish Social Innovation Club). The event is a full day conference for 300 students, speakers, and organisers taking place in Copenhagen.
 During the past couple of years I have photographed a lot of similar events and I really enjoy doing so. The combination of photography and getting to experience the fantastic entrepreneurship vibe is just amazing.</p>
 
