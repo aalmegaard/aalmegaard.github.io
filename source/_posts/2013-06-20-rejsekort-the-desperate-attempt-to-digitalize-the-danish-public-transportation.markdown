@@ -3,7 +3,7 @@ layout: post
 title: "Rejsekort - A sloppy attempt to digitalise the Danish public transportation"
 date: 2013-06-20 11:35
 comments: true
-categories: critical technology transportation
+categories: critical thoughts technology transportation
 ---
 
 “*Rejsekort (Official translation: TRAVEL CARD) is an electronic ticket system for public transport in Denmark. The system is a collaborative work between DSB, HUR, Ørestadsselskabet, and various regional bus companies, and work on it started on August 18, 2003.*”
