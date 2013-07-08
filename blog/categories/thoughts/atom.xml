@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: critical | The geek behind the viewfinder]]></title>
-  <link href="http://blog.almegaard.com/blog/categories/critical/atom.xml" rel="self"/>
+  <title><![CDATA[Category: thoughts | The geek behind the viewfinder]]></title>
+  <link href="http://blog.almegaard.com/blog/categories/thoughts/atom.xml" rel="self"/>
   <link href="http://blog.almegaard.com/"/>
   <updated>2013-07-08T18:51:42+02:00</updated>
   <id>http://blog.almegaard.com/</id>
