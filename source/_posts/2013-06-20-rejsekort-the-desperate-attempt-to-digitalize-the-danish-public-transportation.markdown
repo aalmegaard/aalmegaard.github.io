@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rejsekort - A sloppy attempt to digitalize the Danish public transportation"
+title: "Rejsekort - A sloppy attempt to digitize the Danish public transportation"
 date: 2013-06-20 11:35
 comments: true
 categories: critical thoughts technology transportation
