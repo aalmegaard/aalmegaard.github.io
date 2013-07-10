@@ -37,5 +37,5 @@ The worst thing is that the new travel card system isn’t connected to the the 
 
 For now, the use of the old ticket coupons is prolonged and we can only hope that someone will wake up and turn the project around. The travel card definitely has potential as we have seen in other countries, but there is still a lot to fix.    
 
-
+[ref1]: http://rejsekort.dk
 
